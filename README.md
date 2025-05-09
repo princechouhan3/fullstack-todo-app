@@ -1,19 +1,19 @@
-# 📝 Full Stack To-Do List App
+# Full Stack To-Do List App
 
 A simple and elegant full-stack To-Do List application built with **React**, **Node.js**, **Express**, and **MongoDB (Atlas)**.
 
 This app allows users to:
-- ✅ Add new tasks
-- ❌ Delete tasks
-- 🔁 Mark tasks as complete/incomplete
-- 🌑 Use a sleek UI with optional **dark mode**
-- 💾 Persist tasks using MongoDB Atlas
+- Add new tasks
+- Delete tasks
+- Mark tasks as complete/incomplete
+- Use a sleek UI with optional **dark mode**
+- Persist tasks using MongoDB Atlas
 
 ---
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 | Frontend              | Backend              | Database         |
 |-----------------------|----------------------|------------------|
